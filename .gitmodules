@@ -1,0 +1,3 @@
+[submodule "tsLogin"]
+	path = tsLogin
+	url = https://github.com/danaisboss/tsLogin

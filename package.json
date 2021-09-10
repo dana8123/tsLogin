@@ -1,0 +1,24 @@
+{
+  "name": "tslogin",
+  "version": "1.0.0",
+  "description": "typescript login with nest.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danaisboss/tsLogin.git"
+  },
+  "author": "dana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danaisboss/tsLogin/issues"
+  },
+  "homepage": "https://github.com/danaisboss/tsLogin#readme",
+  "dependencies": {
+    "@nestjs/typeorm": "^8.0.2",
+    "mysql2": "^2.3.0",
+    "typeorm": "^0.2.37"
+  }
+}
